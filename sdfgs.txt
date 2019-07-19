@@ -1,0 +1,10 @@
+name = input ("whats ur name ")
+
+print ("hi " + name)
+
+food = input ("what did you eat? ")
+if food = ("poop")
+    print("eww")
+
+else 
+    print("great i like " + food +  " toooo")
